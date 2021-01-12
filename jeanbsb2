@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>MB Blog</title> 
+<title>CJ Blog</title> 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Easy Resume Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
@@ -85,7 +85,7 @@
 							<img src="images/pp.jpg" class="img-responsive" alt=""/>
 						</div>
 						<div class="col-md-8 about-right wthree">
-							<h3>Olá, sou <span>Marcos Bruno Mendes de Paula </span></h3>
+							<h3>Olá, sou <span>Carlos Jean Bezerra Crispim </span></h3>
 							<h4>Analista de Sistemas Sr & Cientista de Dados </h4>
 							<ul class="address">
 								<li>
@@ -96,8 +96,8 @@
 								</li>
 								<li>
 									<ul class="agileits-address-text">
-										<li><b>Telefone </b></li>
-										<li>+55 47 9.9122 2470</li>
+										<!--<li><b>Telefone </b></li>-->
+										<!-- <li>+55 47 9.9122 2470</li> -->
 									</ul>
 								</li>
 								<li>
